@@ -23,7 +23,7 @@ Mình vừa thêm một mini-game Hangman viết bằng Python vào repository p
 
 - Link: https://github.com/huongpham67/python-todo
 - Chạy nhanh:
-  - Clone: `git clone https://github.com/huongpham67/python-todo`
+  - Clone: `git clone https://github.com/huongpham67/python-todo`  https://github.com/huongpham67/free-python
   - Chạy: `python -m hangman`
 
 Trong repo có sẵn mã nguồn, unit tests (pytest) và workflow GitHub Actions để chạy test tự động.
