@@ -24,7 +24,7 @@ Mình vừa thêm một mini-game Hangman viết bằng Python vào repository p
 - Link: https://github.com/huongpham67/free-python
 - Chạy nhanh:
   - Clone: `https://github.com/huongpham67/free-python`  
-  - Chạy: `python -m hangman`
+  - Chạy: `py -m freegames.pacman`
 
 Trong repo có sẵn mã nguồn, unit tests (pytest) và workflow GitHub Actions để chạy test tự động.
 
