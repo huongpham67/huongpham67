@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## Mini-game: Hangman (Trò chơi "Treo cổ")
 Mình vừa thêm một mini-game Hangman viết bằng Python vào repository public **python-todo**.
 
-- Link: https://github.com/huongpham67/python-todo
+- Link: https://github.com/huongpham67/free-python
 - Chạy nhanh:
   - Clone: `https://github.com/huongpham67/free-python`  
   - Chạy: `python -m hangman`
